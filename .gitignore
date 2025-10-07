@@ -1,0 +1,18 @@
+# Claude Code configuration
+.claude/
+
+# Cache directories
+__pycache__/
+
+# Data directories
+Bladder_Data/
+
+# Training outputs
+Training Curve.png
+
+# Jupyter notebooks (if temporary)
+ThorMed_Colab_Notebook.ipynb
+
+# nnU-Net requirements and setup
+nnunet_requirements.txt
+nnunet_setup.py
